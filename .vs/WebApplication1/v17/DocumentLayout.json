@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20100\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|c:\\users\\20100\\source\\repos\\webapplication1\\webapplication1\\services\\inoviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\inoviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|c:\\users\\20100\\source\\repos\\webapplication1\\webapplication1\\services\\iinoviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\iinoviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|c:\\users\\20100\\source\\repos\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|c:\\users\\20100\\source\\repos\\webapplication1\\webapplication1\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|c:\\users\\20100\\source\\repos\\webapplication1\\webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|c:\\users\\20100\\source\\repos\\webapplication1\\webapplication1\\mappingprofiles\\invoicemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\mappingprofiles\\invoicemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|c:\\users\\20100\\source\\repos\\webapplication1\\webapplication1\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|c:\\users\\20100\\source\\repos\\webapplication1\\webapplication1\\dtos\\createinvoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\createinvoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|c:\\users\\20100\\source\\repos\\webapplication1\\webapplication1\\controllers\\notinvoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\notinvoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|c:\\users\\20100\\source\\repos\\webapplication1\\webapplication1\\controllers\\notproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\notproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|c:\\users\\20100\\source\\repos\\webapplication1\\webapplication1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|c:\\users\\20100\\source\\repos\\webapplication1\\webapplication1\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|c:\\users\\20100\\source\\repos\\webapplication1\\webapplication1\\dtos\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|c:\\users\\20100\\source\\repos\\webapplication1\\webapplication1\\mappingprofiles\\productmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\mappingprofiles\\productmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|c:\\users\\20100\\source\\repos\\webapplication1\\webapplication1\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|c:\\users\\20100\\source\\repos\\webapplication1\\webapplication1\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|c:\\users\\20100\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|c:\\users\\20100\\source\\repos\\webapplication1\\webapplication1\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|c:\\users\\20100\\source\\repos\\webapplication1\\webapplication1\\migrations\\20240818161019_ofa7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240818161019_ofa7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|c:\\users\\20100\\source\\repos\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|c:\\users\\20100\\source\\repos\\webapplication1\\webapplication1\\migrations\\20240820014757_secondpo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BDCC52-F189-4636-965F-8A04684EC983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240820014757_secondpo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "notInvoicesController.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\notInvoicesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\notInvoicesController.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\notInvoicesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\notInvoicesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T02:44:47.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InoviceService.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Services\\InoviceService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\InoviceService.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Services\\InoviceService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\InoviceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:32:30.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IInoviceService.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Services\\IInoviceService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\IInoviceService.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Services\\IInoviceService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\IInoviceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:32:29.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Dtos\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Dtos\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Dtos\\CreateProductDto.cs",
+              "RelativeToolTip": "WebApplication1\\Dtos\\CreateProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T01:54:40.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Services\\IProductService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:32:30.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Services\\ProductService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAywCkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:32:31.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "notProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\notProductsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\notProductsController.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\notProductsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\notProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T01:25:44.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:36:32.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\MappingProfiles\\ProductMappingProfile.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\MappingProfiles\\ProductMappingProfile.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\MappingProfiles\\ProductMappingProfile.cs",
+              "RelativeToolTip": "WebApplication1\\MappingProfiles\\ProductMappingProfile.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:18:11.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\MappingProfiles\\InvoiceMappingProfile.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\MappingProfiles\\InvoiceMappingProfile.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\MappingProfiles\\InvoiceMappingProfile.cs",
+              "RelativeToolTip": "WebApplication1\\MappingProfiles\\InvoiceMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:18:10.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InvoiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Dtos\\InvoiceDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Dtos\\InvoiceDto.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Dtos\\InvoiceDto.cs",
+              "RelativeToolTip": "WebApplication1\\Dtos\\InvoiceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T01:54:17.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateInvoiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Dtos\\CreateInvoiceDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Dtos\\CreateInvoiceDto.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Dtos\\CreateInvoiceDto.cs",
+              "RelativeToolTip": "WebApplication1\\Dtos\\CreateInvoiceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:18:18.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "WebApplication1\\Dtos\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:18:19.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Invoice.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:41:08.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Product.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:39:03.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T01:57:32.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:45:10.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240818161019_ofa7.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20240818161019_ofa7.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240818161019_ofa7.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20240818161019_ofa7.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240818161019_ofa7.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:10:19.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-18T15:54:56.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240820014757_secondpo.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20240820014757_secondpo.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240820014757_secondpo.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20240820014757_secondpo.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240820014757_secondpo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T01:47:57.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-18T15:44:48.247Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
